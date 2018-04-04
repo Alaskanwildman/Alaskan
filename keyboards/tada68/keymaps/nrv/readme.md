@@ -1,3 +1,3 @@
-# default TADA68 layout
+# My own twist (test 1)
 
-This layout replicates the default factory layout of the TADA68.
+If you find this, im sorry, I'm just learning how to do this
